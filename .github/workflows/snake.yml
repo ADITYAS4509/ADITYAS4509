@@ -30,7 +30,7 @@ jobs:
           theme: tokyonight
           no-frame: "true"
           max-cols: "7"
-          token: ${{ secrets.TROOHY_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
