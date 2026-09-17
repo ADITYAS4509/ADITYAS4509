@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Shukla</h1>
+<h1 align="center">Hi ðŸ‘‹, I'm Aditya Shukla</h1>
 
 <h3 align="center">
 AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusiast
@@ -15,23 +15,23 @@ AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusias
 
 ---
 
-## 👨‍💻 About Me
+## ðŸ‘¨â€ðŸ’» About Me
 
-🎓 I'm an **Artificial Intelligence & Data Science engineering student** at **KLE College of Engineering and Technology**.
+ðŸŽ“ I'm an **Artificial Intelligence & Data Science engineering student** at **KLE College of Engineering and Technology**.
 
-💡 I'm passionate about **Data Science, Machine Learning, Artificial Intelligence, and Data Analytics**.
+ðŸ’¡ I'm passionate about **Data Science, Machine Learning, Artificial Intelligence, and Data Analytics**.
 
-🚀 I enjoy building practical projects that solve real-world problems using **data and intelligent systems**.
+ðŸš€ I enjoy building practical projects that solve real-world problems using **data and intelligent systems**.
 
-📊 Currently strengthening my skills in **Python, SQL, Statistics, Data Analysis, Machine Learning, and Data Visualization**.
+ðŸ“Š Currently strengthening my skills in **Python, SQL, Statistics, Data Analysis, Machine Learning, and Data Visualization**.
 
-🧠 My career goal is to become a **Data Scientist** and build intelligent, data-driven solutions.
+ðŸ§  My career goal is to become a **Data Scientist** and build intelligent, data-driven solutions.
 
-🔨 I believe in **learning by building real projects** and continuously improving through hands-on experience.
+ðŸ”¨ I believe in **learning by building real projects** and continuously improving through hands-on experience.
 
 ---
 
-# 🌐 Connect With Me
+# ðŸŒ Connect With Me
 
 <p align="center">
 
@@ -51,9 +51,9 @@ AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusias
 
 ---
 
-# 🛠️ Tech Stack
+# ðŸ› ï¸ Tech Stack
 
-## 💻 Programming
+## ðŸ’» Programming
 
 <p>
 
@@ -63,7 +63,7 @@ AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusias
 
 </p>
 
-## 🤖 AI / Machine Learning / Data Science
+## ðŸ¤– AI / Machine Learning / Data Science
 
 <p>
 
@@ -75,7 +75,7 @@ AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusias
 
 </p>
 
-## 🌐 Development & APIs
+## ðŸŒ Development & APIs
 
 <p>
 
@@ -87,7 +87,7 @@ AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusias
 
 </p>
 
-## 🗄️ Databases
+## ðŸ—„ï¸ Databases
 
 <p>
 
@@ -98,7 +98,7 @@ AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusias
 
 </p>
 
-## ☁️ Tools & Platforms
+## â˜ï¸ Tools & Platforms
 
 <p>
 
@@ -115,14 +115,14 @@ AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusias
 
 ---
 
-# 🚀 Featured Projects
+# ðŸš€ Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🔍 InsightAI</h3>
+<h3 align="center">ðŸ” InsightAI</h3>
 
 <p align="center">
 <b>Universal AI-Powered Data Analysis Platform</b>
@@ -132,23 +132,23 @@ InsightAI is an intelligent platform that transforms raw datasets into meaningfu
 
 ### Features
 
-- 📂 Dynamic dataset upload
-- 🔎 Automatic schema detection
-- 🧹 Data preprocessing
-- 📊 Exploratory Data Analysis
-- 📈 Interactive visualizations
-- 🤖 AI-powered insights
-- 📑 Automated reporting
-- 🧠 Intelligent dataset understanding
+- ðŸ“‚ Dynamic dataset upload
+- ðŸ”Ž Automatic schema detection
+- ðŸ§¹ Data preprocessing
+- ðŸ“Š Exploratory Data Analysis
+- ðŸ“ˆ Interactive visualizations
+- ðŸ¤– AI-powered insights
+- ðŸ“‘ Automated reporting
+- ðŸ§  Intelligent dataset understanding
 
 **Tech Stack:**  
-Python • Pandas • NumPy • Streamlit • Plotly • DuckDB • Machine Learning
+Python â€¢ Pandas â€¢ NumPy â€¢ Streamlit â€¢ Plotly â€¢ DuckDB â€¢ Machine Learning
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🏥 AI HealthGuard</h3>
+<h3 align="center">ðŸ¥ AI HealthGuard</h3>
 
 <p align="center">
 <b>AI-Powered Healthcare Platform</b>
@@ -158,16 +158,16 @@ AI HealthGuard is an AI-powered healthcare assistance platform designed to provi
 
 ### Features
 
-- 🩺 AI symptom analysis
-- ⚠️ Risk prediction
-- 🏥 Healthcare guidance
-- 💳 Insurance assessment
-- 🤖 Machine learning predictions
-- ⚡ FastAPI backend
-- 📊 Data-driven decision support
+- ðŸ©º AI symptom analysis
+- âš ï¸ Risk prediction
+- ðŸ¥ Healthcare guidance
+- ðŸ’³ Insurance assessment
+- ðŸ¤– Machine learning predictions
+- âš¡ FastAPI backend
+- ðŸ“Š Data-driven decision support
 
 **Tech Stack:**  
-Python • Machine Learning • FastAPI • Streamlit • Data Science
+Python â€¢ Machine Learning â€¢ FastAPI â€¢ Streamlit â€¢ Data Science
 
 </td>
 
@@ -177,7 +177,7 @@ Python • Machine Learning • FastAPI • Streamlit • Data Science
 
 <td width="50%" valign="top">
 
-<h3 align="center">🛒 Intellimarket</h3>
+<h3 align="center">ðŸ›’ Intellimarket</h3>
 
 <p align="center">
 <b>AI-Based Online Buying & Selling Platform</b>
@@ -187,23 +187,23 @@ Intellimarket is an intelligent online marketplace that integrates AI features i
 
 ### Features
 
-- 🤖 Product recommendation
-- 💰 Price prediction
-- 🛡️ Fraud detection
-- 💬 AI chatbot
-- 🔐 OTP email verification
-- 🔎 Product search & filtering
-- ⚡ Real-time communication
-- 🛍️ Online buying & selling
+- ðŸ¤– Product recommendation
+- ðŸ’° Price prediction
+- ðŸ›¡ï¸ Fraud detection
+- ðŸ’¬ AI chatbot
+- ðŸ” OTP email verification
+- ðŸ”Ž Product search & filtering
+- âš¡ Real-time communication
+- ðŸ›ï¸ Online buying & selling
 
 **Tech Stack:**  
-Node.js • Express.js • Python • Machine Learning • Socket.io • JavaScript
+Node.js â€¢ Express.js â€¢ Python â€¢ Machine Learning â€¢ Socket.io â€¢ JavaScript
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 ZARA</h3>
+<h3 align="center">ðŸ¤– ZARA</h3>
 
 <p align="center">
 <b>Zero-Touch Assistant Robot Automation</b>
@@ -213,17 +213,17 @@ ZARA is an ESP32-based robotic assistant designed for wireless and zero-touch hu
 
 ### Features
 
-- 📡 ESP32 Wi-Fi communication
-- 🎮 Wireless command processing
-- ⬆️ Forward movement
-- ⬇️ Backward movement
-- ↩️ Left & right movement
-- 🛑 Automatic stopping
-- 📏 Ultrasonic obstacle detection
-- ⚙️ L298N motor driver integration
+- ðŸ“¡ ESP32 Wi-Fi communication
+- ðŸŽ® Wireless command processing
+- â¬†ï¸ Forward movement
+- â¬‡ï¸ Backward movement
+- â†©ï¸ Left & right movement
+- ðŸ›‘ Automatic stopping
+- ðŸ“ Ultrasonic obstacle detection
+- âš™ï¸ L298N motor driver integration
 
 **Tech Stack:**  
-ESP32 • Embedded C • Arduino IDE • Wi-Fi • Ultrasonic Sensor • L298N
+ESP32 â€¢ Embedded C â€¢ Arduino IDE â€¢ Wi-Fi â€¢ Ultrasonic Sensor â€¢ L298N
 
 </td>
 
@@ -232,9 +232,9 @@ ESP32 • Embedded C • Arduino IDE • Wi-Fi • Ultrasonic Sensor • L298N
 
 ---
 
-# 💼 Experience
+# ðŸ’¼ Experience
 
-## 🐍 Python Development Intern — SaiKet Systems
+## ðŸ Python Development Intern â€” SaiKet Systems
 
 **Python Development Internship**
 
@@ -246,7 +246,7 @@ ESP32 • Embedded C • Arduino IDE • Wi-Fi • Ultrasonic Sensor • L298N
 
 ---
 
-# 📚 Currently Improving
+# ðŸ“š Currently Improving
 
 <p align="center">
 
@@ -259,56 +259,56 @@ ESP32 • Embedded C • Arduino IDE • Wi-Fi • Ultrasonic Sensor • L298N
 
 </p>
 
-### 🎯 My Current Focus
+###ðŸŽ¯ My Current Focus
 
 ```text
 Python
-  ↓
+  â†“
 NumPy & Pandas
-  ↓
+  â†“
 Data Cleaning & Preprocessing
-  ↓
+  â†“
 SQL
-  ↓
+  â†“
 Statistics & Probability
-  ↓
+  â†“
 Data Visualization
-  ↓
+  â†“
 Exploratory Data Analysis
-  ↓
+  â†“
 Machine Learning
-  ↓
+  â†“
 Feature Engineering
-  ↓
+  â†“
 Model Evaluation
-  ↓
+  â†“
 Advanced Machine Learning
-  ↓
+  â†“
 End-to-End Data Science Projects
-  ↓
+  â†“
 Deployment & MLOps
 
-# 📚 Currently Improving
+# ðŸ“š Currently Improving
 
 I'm continuously working on strengthening my technical skills and becoming a better Data Scientist.
 
-### 🔥 Areas I'm Currently Improving
+### ðŸ”¥ Areas I'm Currently Improving
 
-- 🐍 Advanced Python
-- 📊 Data Analysis & Data Cleaning
-- 🗄️ SQL & Database Management
-- 📈 Statistics & Probability
-- 🤖 Machine Learning
-- 🧠 Feature Engineering
-- 📊 Data Visualization
-- 🧪 Model Evaluation
-- 🚀 End-to-End Data Science Projects
-- ☁️ Deployment & MLOps
-- 💡 Problem Solving & Logical Thinking
+- ðŸ Advanced Python
+- ðŸ“Š Data Analysis & Data Cleaning
+- ðŸ—„ï¸ SQL & Database Management
+- ðŸ“ˆ Statistics & Probability
+- ðŸ¤– Machine Learning
+- ðŸ§  Feature Engineering
+- ðŸ“Š Data Visualization
+- ðŸ§ª Model Evaluation
+- ðŸš€ End-to-End Data Science Projects
+- â˜ï¸ Deployment & MLOps
+- ðŸ’¡ Problem Solving & Logical Thinking
 
 ---
 
-# 📊 GitHub Statistics
+# ðŸ“Š GitHub Statistics
 
 <p align="center">
 
@@ -320,7 +320,7 @@ I'm continuously working on strengthening my technical skills and becoming a bet
 
 ---
 
-# 🔥 Contribution Streak
+# ðŸ”¥ Contribution Streak
 
 <p align="center">
 
@@ -330,7 +330,7 @@ I'm continuously working on strengthening my technical skills and becoming a bet
 
 ---
 
-# 📈 GitHub Analytics
+# ðŸ“ˆ GitHub Analytics
 
 <p align="center">
 
@@ -356,7 +356,7 @@ I'm continuously working on strengthening my technical skills and becoming a bet
 
 ---
 
-# 🐍 Contribution Snake
+# ðŸ Contribution Snake
 
 <p align="center">
 
@@ -366,7 +366,7 @@ I'm continuously working on strengthening my technical skills and becoming a bet
 
 ---
 
-# 💬 Random Dev Quote
+# ðŸ’¬ Random Dev Quote
 
 <p align="center">
 
@@ -376,13 +376,13 @@ I'm continuously working on strengthening my technical skills and becoming a bet
 
 ---
 
-# 🎯 What I'm Working Towards
+# ðŸŽ¯ What I'm Working Towards
 
 <table>
 <tr>
 <td>
 
-### 🎓 Career Goal
+### ðŸŽ“ Career Goal
 
 Become a **Data Scientist** capable of solving real-world problems using data, statistics, and machine learning.
 
@@ -390,7 +390,7 @@ Become a **Data Scientist** capable of solving real-world problems using data, s
 
 <td>
 
-### 🤖 AI & ML
+### ðŸ¤– AI & ML
 
 Build intelligent applications using **Machine Learning, Artificial Intelligence, and Data Science**.
 
@@ -400,7 +400,7 @@ Build intelligent applications using **Machine Learning, Artificial Intelligence
 <tr>
 <td>
 
-### 📊 Data
+### ðŸ“Š Data
 
 Develop strong expertise in **Data Analysis, SQL, Statistics, Visualization, and Predictive Modeling**.
 
@@ -408,7 +408,7 @@ Develop strong expertise in **Data Analysis, SQL, Statistics, Visualization, and
 
 <td>
 
-### 🚀 Projects
+### ðŸš€ Projects
 
 Build and deploy **real-world, production-ready projects** that demonstrate practical technical skills.
 
@@ -418,23 +418,23 @@ Build and deploy **real-world, production-ready projects** that demonstrate prac
 
 ---
 
-# 🌱 My Journey
+# ðŸŒ± My Journey
 
 ```text
 Learn
-  ↓
+  â†“
 Practice
-  ↓
+  â†“
 Build Projects
-  ↓
+  â†“
 Solve Real Problems
-  ↓
+  â†“
 Deploy
-  ↓
+  â†“
 Improve
-  ↓
-Repeat 🔁
-# 🤝 Let's Connect
+  â†“
+Repeat ðŸ”
+# ðŸ¤ Let's Connect
 
 <p align="center">
 
@@ -453,14 +453,14 @@ Repeat 🔁
 </p>
 
 <p align="center">
-💬 Feel free to connect with me, collaborate on projects, or discuss
+ðŸ’¬ Feel free to connect with me, collaborate on projects, or discuss
 <br>
 AI, Data Science, Machine Learning, and interesting ideas.
 </p>
 
 ---
 
-# 🌟 Thank You for Visiting!
+# ðŸŒŸ Thank You for Visiting!
 
 <p align="center">
 
@@ -470,11 +470,11 @@ AI, Data Science, Machine Learning, and interesting ideas.
 
 <p align="center">
 
-⭐ <b>Explore my repositories</b>  
+â­ <b>Explore my repositories</b>  
 <br>
-🤝 <b>Connect with me</b>  
+ðŸ¤ <b>Connect with me</b>  
 <br>
-🚀 <b>Let's build something amazing together!</b>
+ðŸš€ <b>Let's build something amazing together!</b>
 
 </p>
 
@@ -485,5 +485,5 @@ AI, Data Science, Machine Learning, and interesting ideas.
 ---
 
 <p align="center">
-<b>Thanks for stopping by! 👋</b>
+<b>Thanks for stopping by! ðŸ‘‹</b>
 </p>
