@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Aditya Shukla</h1> <p align="center">🎓 AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusiast</p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+Real-World+AI+%26+Data+Science" alt="Typing SVG"/> </p>
+<h1 align="center">Hi 👋, I'm Aditya Shukla</h1>
+
+<p align="center">🎓 AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusiast</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+Real-World+AI+%26+Data+Science" alt="Typing SVG"/>
+</p>
+
+---
 
 ## 🙋 About Me
 
@@ -161,8 +169,8 @@ ESP32 • Embedded C • Arduino IDE
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ADITYAS4509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAS4509&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ADITYAS4509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ADITYAS4509&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -175,18 +183,10 @@ ESP32 • Embedded C • Arduino IDE
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYAS4509&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ADITYAS4509&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ADITYAS4509&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
