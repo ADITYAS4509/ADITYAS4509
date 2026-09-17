@@ -1,12 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Shukla</h1>
-
-<p align="center">🎓 AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusiast</p>
-
-<p align="center">
-<a href="https://github.com/ADITYAS4509"><b>Building Real-World AI & Data Science Projects</b></a>
-</p>
-
----
+<h1 align="center">Hi 👋, I'm Aditya Shukla</h1> <p align="center">🎓 AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusiast</p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+Real-World+AI+%26+Data+Science" alt="Typing SVG"/> </p>
 
 ## 🙋 About Me
 
