@@ -26,11 +26,10 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ADITYAS4509
-          output_path: dist/trophy.svg
+          file: dist/trophy.svg
           theme: tokyonight
-          no_frame: "true"
-          row: "1"
-          column: "7"
+          no-frame: "true"
+          max-cols: "7"
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
