@@ -1,29 +1,87 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Aditya Shukla</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00C2FF&height=200&section=header&text=Aditya%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">🎓 AI & Data Science Student | Aspiring Data Scientist | Machine Learning Enthusiast</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Real-World+AI+%26+Data+Science+Projects;Turning+Data+into+Insights;Exploring+Artificial+Intelligence;Future+Data+Scientist+%F0%9F%9A%80" alt="Typing SVG"/>
+<p align="center">
+<a href="https://github.com/ADITYAS4509"><b>Building Real-World AI & Data Science Projects</b></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=ADITYAS4509&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/ADITYAS4509?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+---
 
-<a href="https://github.com/ADITYAS4509"><img src="https://img.shields.io/badge/GitHub-ADITYAS4509-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aditya-shukla-da"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:adityashukla4509@gmail.com"><img src="https://img.shields.io/badge/Gmail-adityashukla4509-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+## 🙋 About Me
 
-</div>
+**📌 Currently Working On**
+- 🤖 AI & Machine Learning Projects
+- 📊 Data Analysis & Automated EDA Tools
+- 🏥 Healthcare Prediction Systems
+- 🛒 Full-Stack AI-Integrated Applications
+- 📈 Real-World Data Analytics Projects
 
-<br/>
+> ⚡ **Fun Fact**
+> I started from scratch and I'm on a mission to become a skilled Data Scientist by building impactful, real-world projects. 🚀
 
-## 👨‍💻 About Me
+---
 
-- 🎓 AI & Data Science engineering student at **KLE College of Engineering and Technology**
-- 💡 Passionate about **Data Science, Machine Learning, and Data Analytics**
-- 🚀 I build practical, end-to-end projects — not just notebooks — that turn raw data into working systems
-- 🧠 Career goal: become a **Data Scientist** who ships intelligent, data-driven solutions
-- 🌱 Currently deepening my skills in **Statistics, SQL, and applied Machine Learning**
+## 🌐 Connect With Me
 
-<br/>
+<p>
+<a href="https://github.com/ADITYAS4509"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aditya-shukla-da"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:adityashukla4509@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+> Add more badges here the same way — Portfolio, Instagram, Medium, StackOverflow, Discord, etc. — once you have those links.
+
+---
+
+## 💻 Tech Stack
+
+### 🧑‍💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🤖 AI • ML • Data Science
+<p>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+### 🌐 Web Development & APIs
+<p>
+<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/DUCKDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
+</p>
+
+### ☁️ Cloud & Deployment
+<p>
+<img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+
+### 📊 Analytics & Tools
+Power BI • Git • GitHub • Jupyter • VS Code • Postman • Arduino IDE
+
+---
+
+> ⭐ *"Turning data into decisions, one model at a time."*
+
+---
 
 ## 🚀 Featured Projects
 
@@ -32,33 +90,37 @@
 <td width="50%" valign="top">
 
 ### 🔍 InsightAI
-**Universal AI-Powered Data Analysis Platform**
+Universal AI-powered data analysis platform that transforms raw datasets into automated EDA, visualizations, and AI-generated insights.
 
-Automated EDA and reporting: upload any dataset and get schema detection, cleaning, visualizations, and AI-generated insights back.
+**Features**
+- 📂 Dynamic dataset upload with schema detection
+- 🧹 Automated preprocessing & EDA
+- 📈 Interactive Plotly visualizations
+- 🤖 AI-powered insights & reporting
 
-- Dynamic upload with automatic schema detection
-- Automated preprocessing & EDA
-- AI-powered insight generation and reporting
+**Tech Stack**
+Python • Pandas • NumPy • Streamlit • Plotly • DuckDB
 
-`Python` `Pandas` `Streamlit` `Plotly` `DuckDB`
-
-[**View Repo →**](https://github.com/ADITYAS4509)
+🔗 **Repository**
+[github.com/ADITYAS4509](https://github.com/ADITYAS4509)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏥 AI HealthGuard
-**AI-Powered Healthcare Platform**
+AI-powered healthcare platform providing intelligent health guidance using ML-driven symptom analysis and risk prediction.
 
-ML-driven health guidance combining symptom analysis with risk and insurance-cost prediction, served via FastAPI.
+**Features**
+- 🩺 AI symptom analysis
+- ⚠️ Risk & insurance cost prediction
+- ⚡ FastAPI backend
+- 📊 Data-driven decision support
 
-- AI symptom analysis & risk prediction
-- Insurance cost assessment via ML
-- FastAPI backend + Streamlit frontend
+**Tech Stack**
+Python • Scikit-Learn • FastAPI • Streamlit
 
-`Python` `Scikit-Learn` `FastAPI` `Streamlit`
-
-[**View Repo →**](https://github.com/ADITYAS4509)
+🔗 **Repository**
+[github.com/ADITYAS4509](https://github.com/ADITYAS4509)
 
 </td>
 </tr>
@@ -66,138 +128,119 @@ ML-driven health guidance combining symptom analysis with risk and insurance-cos
 <td width="50%" valign="top">
 
 ### 🛒 Intellimarket
-**AI-Based Online Marketplace**
+AI-based online marketplace integrating recommendations, price prediction, and fraud detection into the buying/selling flow.
 
-Full-stack marketplace with ML baked into the buying/selling flow — recommendations, pricing, and fraud detection.
+**Features**
+- 🤖 Product recommendation & price prediction
+- 🛡️ Fraud detection + AI chatbot
+- 🔐 OTP email verification
+- ⚡ Real-time communication (Socket.io)
 
-- Product recommendation & price prediction
-- Fraud detection + AI chatbot
-- Real-time communication via Socket.io
+**Tech Stack**
+Node.js • Express.js • Python • Machine Learning • Socket.io
 
-`Node.js` `Express.js` `Python` `Socket.io`
-
-[**View Repo →**](https://github.com/ADITYAS4509)
+🔗 **Repository**
+[github.com/ADITYAS4509](https://github.com/ADITYAS4509)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 ZARA
-**Zero-Touch Assistant Robot Automation**
+Zero-Touch Assistant Robot Automation — an ESP32-based robotic assistant for wireless, zero-touch human-robot interaction.
 
-ESP32-based robotic assistant for wireless, zero-touch human-robot interaction with obstacle avoidance.
+**Features**
+- 📡 ESP32 Wi-Fi command processing
+- ⬆️⬇️↩️ Directional movement control
+- 📏 Ultrasonic obstacle detection
+- ⚙️ L298N motor driver integration
 
-- Wi-Fi command processing for movement
-- Ultrasonic obstacle detection with auto-stop
-- L298N motor driver integration
+**Tech Stack**
+ESP32 • Embedded C • Arduino IDE
 
-`ESP32` `Embedded C` `Arduino IDE`
-
-[**View Repo →**](https://github.com/ADITYAS4509)
+🔗 **Repository**
+[github.com/ADITYAS4509](https://github.com/ADITYAS4509)
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Analytics
 
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-**Data & Machine Learning**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
-
-**Development & APIs**
-<br/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-
-**Databases**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black"/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-
-</div>
-
-<br/>
-
-## 💼 Experience
-
-**Python Development Intern — SaiKet Systems**
-Worked on Python-based development tasks, applying core programming and problem-solving skills to real-world development workflows.
-
-<br/>
-
-## 📚 Currently Learning
-
-```text
-Python → NumPy & Pandas → Data Cleaning → SQL → Statistics
-   → Data Visualization → EDA → Machine Learning
-   → Feature Engineering → Model Evaluation → Deployment & MLOps
-```
-
-<div align="center">
-<img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-Learning-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Building-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLOps-Exploring-2E8B57?style=for-the-badge"/>
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ADITYAS4509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAS4509&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+</p>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ADITYAS4509&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+---
 
-<div align="center">
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ADITYAS4509&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYAS4509&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
+</p>
 
-<br/>
+---
 
-## 🤝 Let's Connect
+## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ADITYAS4509&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
-💬 Open to collaborating on AI/Data Science projects, internships, or just talking shop about ML.
+---
 
-<a href="https://github.com/ADITYAS4509"><img src="https://img.shields.io/badge/GitHub-ADITYAS4509-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aditya-shukla-da"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:adityashukla4509@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+## 📅 Contribution Calendar
 
-</div>
+<p align="center">
+<img src="https://ghchart.rshah.org/0e75b6/ADITYAS4509" alt="GitHub Contribution Calendar"/>
+</p>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0e75b6&height=120&section=footer" width="100%"/>
+## ⚡ Development Metrics
 
-<div align="center"><b>Thanks for stopping by ⭐ — let's build something amazing together!</b></div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADITYAS4509&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADITYAS4509&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ADITYAS4509&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ADITYAS4509&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADITYAS4509&theme=tokyonight&utcOffset=5.5" width="48%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ADITYAS4509/ADITYAS4509/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+> ℹ️ This needs a one-time GitHub Actions workflow (Platane/snk) set up in your `ADITYAS4509/ADITYAS4509` repo to generate the `output` branch — say the word if you want that workflow file too.
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+<p align="center"><b>Thanks for stopping by ⭐ — let's build something amazing together!</b></p>
