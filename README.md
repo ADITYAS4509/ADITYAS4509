@@ -1,114 +1,371 @@
-👋 Hi, I'm Aditya Shukla
 
-🤖 Artificial Intelligence & Data Science Student | Aspiring Data Scientist
+Focus:<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Turning+Data+Into+Insights" alt="Typing SVG" />
-</p><p align="center">
-  <a href="https://github.com/ADITYAS4509">
-    <img src="https://img.shields.io/badge/GitHub-ADITYAS4509-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-shukla-da">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Shukla-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:adityashukla4509@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-</p>---
+# Hi 👋, I'm **Aditya Shukla**
 
-🧑‍💻 About Me
+### 🤖 AI & Data Science Student | Aspiring Data Scientist | Machine Learning Learner
 
-🎓 I'm an Artificial Intelligence & Data Science engineering student at KLE College of Engineering and Technology.
+**Building Real-World AI & Data Science Projects 🚀**
 
-💡 I'm passionate about using data, machine learning, and AI to build practical solutions for real-world problems.
-
-📊 My current focus is on developing skills in:
-
-- 🐍 Python & Data Science
-- 📊 Data Analytics & Visualization
-- 🤖 Machine Learning
-- 🧠 Artificial Intelligence
-- 📈 Predictive Analytics
-- 🚀 AI-powered applications
-
-🌱 Currently working toward becoming a Data Scientist and building projects that demonstrate real-world problem solving.
+</div>
 
 ---
 
-⚡ What I'm Working On
+# 🧭 About Me
 
-📊 Data Science
-     ↓
-🐍 Python + Pandas + NumPy
-     ↓
-🤖 Machine Learning
-     ↓
-📈 Analytics & Visualization
-     ↓
-🧠 AI-Powered Applications
-     ↓
-🚀 Real-World Projects
+### 🔭 Currently Working On
+
+- 🤖 AI & Machine Learning Projects
+- 📊 Data Analysis & Visualization
+- 🧠 Intelligent Data-Driven Applications
+- 📈 Real-World Data Science Projects
+- 🚀 Building projects for a career in Data Science
+
+### ⚡ Fun Fact
+
+> I started my journey in Artificial Intelligence & Data Science by building projects from scratch, and I'm continuously learning, experimenting, and turning ideas into real-world applications. 🚀
 
 ---
 
-🛠️ Tech Stack
+# 🌐 Connect With Me
 
-🐍 Programming & Data Science
+<p align="left">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=pandas" />
-  <img src="https://skillicons.dev/icons?i=numpy" />
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-</p>🤖 AI / Machine Learning
+<a href="https://www.linkedin.com/in/aditya-shukla-da">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>"Machine Learning" • "Predictive Analytics" • "AI Applications" • "Data Analysis"
+<a href="https://github.com/ADITYAS4509">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-📊 Analytics & Visualization
+<a href="mailto:adityashukla4509@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>"Pandas" • "NumPy" • "Matplotlib" • "Plotly" • "Power BI"
+</p>
 
-🌐 Development
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flask,fastapi,streamlit" />
-</p>🗄️ Databases & Tools
+# 💻 Tech Stack
+
+## 🧑‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode" />
-</p>---
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&labelColor=3776AB"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&labelColor=00599C"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=4479A1"/>
+</p>
 
-🚀 Featured Projects
+## 🤖 AI • ML • Data Science
+
+<p>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&labelColor=150458"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&labelColor=013243"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&labelColor=F7931E"/>
+<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&labelColor=11557C"/>
+<img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&labelColor=3F4F75"/>
+</p>
+
+## 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&labelColor=009688"/>
+<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&labelColor=FF4B4B"/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&labelColor=339933"/>
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&labelColor=000000"/>
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&labelColor=4479A1"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&labelColor=4169E1"/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&labelColor=47A248"/>
+<img src="https://img.shields.io/badge/DUCKDB-FFF000?style=for-the-badge&labelColor=FFF000"/>
+</p>
+
+## ☁️ Cloud & Deployment
+
+<p>
+<img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&labelColor=46E3B7"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&labelColor=181717"/>
+</p>
+
+## 📊 Analytics & Tools
+
+`Power BI` • `Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `Arduino IDE` • `Postman`
+
+---
+
+> ⭐ **"Building intelligent solutions, one project at a time."**
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">🧠 InsightAI
 
-Universal AI-Powered Data Analysis Platform
+<td width="50%">
 
-A data analysis platform designed to let users upload datasets and automatically explore, analyze and generate insights from their data.
+## 🩺 AI HealthGuard
 
-Focus:
+An AI-powered healthcare platform that analyzes symptoms and provides intelligent health insights using Machine Learning.
 
-- Dataset upload
-- Schema detection
-- Data preprocessing
-- Automated analysis
-- Data visualization
-- AI-powered insights
+### 🔹 Features
 
-</td><td width="50%">🏥 AI HealthGuard
+- 🤖 AI-based symptom analysis
+- 📊 Risk prediction
+- 🏥 Healthcare guidance
+- 🛡️ Insurance assessment
+- ⚡ FastAPI backend
+- 📈 ML-powered predictions
 
-AI-Powered Healthcare Intelligence System
+### 🛠️ Tech Stack
 
-An AI-based healthcare solution designed around symptom analysis, risk prediction, insurance assessment and healthcare guidance.
+`Python` • `Machine Learning` • `FastAPI` • `Streamlit` • `Pandas` • `Scikit-learn`
 
-Focus:
+### 🔗 Project
+
+[Explore on GitHub →](https://github.com/ADITYAS4509)
+
+</td>
+
+<td width="50%">
+
+## 🛒 Intellimarket
+
+An AI-powered online buying and selling platform combining marketplace functionality with intelligent features.
+
+### 🔹 Features
+
+- 🤖 Product recommendations
+- 💰 Price prediction
+- 🛡️ Fraud detection
+- 💬 AI chatbot
+- 🔐 OTP email verification
+- 🔎 Product search & filtering
+- ⚡ Real-time communication
+
+### 🛠️ Tech Stack
+
+`Node.js` • `Express.js` • `JavaScript` • `AI/ML`
+
+### 🔗 Project
+
+[Explore on GitHub →](https://github.com/ADITYAS4509)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 InsightAI
+
+A universal AI-powered data analysis platform designed to let users upload datasets and generate meaningful analytical insights.
+
+### 🔹 Features
+
+- 📂 Dynamic dataset upload
+- 🔍 Automatic schema detection
+- 🧹 Data preprocessing
+- 📊 Exploratory Data Analysis
+- 📈 Interactive visualizations
+- 🧠 AI-powered insights
+- 📑 Automated reporting
+
+### 🛠️ Tech Stack
+
+`Python` • `Pandas` • `NumPy` • `DuckDB` • `Streamlit` • `Plotly`
+
+### 🔗 Project
+
+[Explore on GitHub →](https://github.com/ADITYAS4509)
+
+</td>
+
+<td width="50%">
+
+## 🤖 ZARA
+
+### Zero-Touch Assistant Robot Automation
+
+An ESP32-based robotic assistant designed for wireless movement control and obstacle detection.
+
+### 🔹 Features
+
+- 📡 Wi-Fi command processing
+- ⬆️ Forward movement
+- ⬇️ Backward movement
+- ↩️ Left / Right movement
+- 🛑 Automatic stopping
+- 📏 Ultrasonic obstacle detection
+
+### 🛠️ Tech Stack
+
+`ESP32` • `Embedded C` • `Arduino IDE` • `Wi-Fi` • `L298N` • `Ultrasonic Sensor`
+
+### 🔗 Project
+
+[Explore on GitHub →](https://github.com/ADITYAS4509)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 Experience
+
+## 🐍 Python Development Intern
+
+### SaiKet Systems
+
+- Developed Python applications for practical use cases.
+- Worked with Python programming and application development.
+- Improved debugging and problem-solving skills.
+- Practiced clean and maintainable coding.
+- Gained practical software development experience.
+
+---
+
+# 📅 Learning Roadmap
+
+### 🐍 Python
+
+**Advanced Python → OOP → Data Handling → Automation**
+
+### 📊 Data Science
+
+**Pandas → NumPy → EDA → Statistics → Visualization**
+
+### 🤖 Machine Learning
+
+**Supervised Learning → Unsupervised Learning → Model Evaluation → Feature Engineering**
+
+### 🧠 Artificial Intelligence
+
+**AI Fundamentals → ML Applications → Generative AI → AI Agents**
+
+### 📈 Analytics
+
+**Power BI → Business Intelligence → Data Storytelling**
+
+### 🚀 Deployment
+
+**Streamlit → FastAPI → APIs → Cloud Deployment**
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ADITYAS4509&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYAS4509&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ADITYAS4509&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADITYAS4509&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ADITYAS4509/ADITYAS4509/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 💬 Random Dev Quote
+
+<div align="center">
+
+> *"The best way to predict the future is to create it."*
+
+</div>
+
+---
+
+# ☕ Support My Work
+
+<div align="center">
+
+If you find my projects useful or interesting, consider giving them a ⭐ on GitHub.
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+If you're interested in:
+
+- 🤖 Artificial Intelligence
+- 📊 Data Science & Analytics
+- 🧠 Machine Learning
+- 💻 Python Development
+- 🚀 AI-powered Applications
+- 🔬 Real-world Data Science Projects
+- 🤝 Collaboration & Learning
+
+Feel free to connect with me through **GitHub or LinkedIn**.
+
+<p align="center">
+
+<a href="https://github.com/ADITYAS4509">
+<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-shukla-da">
+<img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+# ⭐ Thanks for visiting my profile!
+
+### If you like my projects, consider giving them a star ⭐
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=ADITYAS4509&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+**Building • Learning • Experimenting • Growing 🚀**
+
+</div>
 
 - AI symptom analysis
 - Risk prediction
